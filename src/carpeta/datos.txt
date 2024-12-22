@@ -1,0 +1,10 @@
+Perro
+Gato
+Juan
+Daniel
+Gato
+Juan
+Perro
+Camila
+Daniel
+Camila
